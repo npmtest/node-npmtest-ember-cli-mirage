@@ -1,255 +1,255 @@
 <svg height="4030" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="4030" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 02:00:20 +0000 18943778 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 02:00:20 +0000    24915 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 02:00:20 +0000     2000 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 02:00:20 +0000      324 bytes  ISSUE_TEMPLATE.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 02:00:20 +0000     1066 bytes  LICENSE.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 02:00:20 +0000     1671 bytes  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 02:00:20 +0000      853 bytes  addon/assert.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 02:00:20 +0000      178 bytes  addon/association.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 02:00:20 +0000     8900 bytes  addon/db-collection.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 02:00:20 +0000     1742 bytes  addon/db.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 02:00:20 +0000     3499 bytes  addon/factory.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 02:00:20 +0000      487 bytes  addon/faker.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 02:00:20 +0000      977 bytes  addon/index.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 02:00:20 +0000     2778 bytes  addon/orm/associations/association.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 02:00:20 +0000     5121 bytes  addon/orm/associations/belongs-to.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 02:00:20 +0000     5852 bytes  addon/orm/associations/has-many.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 02:00:20 +0000     3394 bytes  addon/orm/collection.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 02:00:20 +0000    16051 bytes  addon/orm/model.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 02:00:20 +0000     9087 bytes  addon/orm/schema.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 02:00:20 +0000      372 bytes  addon/response.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-19 02:00:20 +0000     4031 bytes  addon/route-handler.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-19 02:00:20 +0000     2684 bytes  addon/route-handlers/base.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-19 02:00:20 +0000     1157 bytes  addon/route-handlers/function.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-19 02:00:20 +0000      265 bytes  addon/route-handlers/object.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-19 02:00:20 +0000     1101 bytes  addon/route-handlers/shorthands/base.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-19 02:00:20 +0000     1480 bytes  addon/route-handlers/shorthands/delete.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-19 02:00:20 +0000     2266 bytes  addon/route-handlers/shorthands/get.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-19 02:00:20 +0000     1322 bytes  addon/route-handlers/shorthands/head.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-19 02:00:20 +0000      871 bytes  addon/route-handlers/shorthands/post.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-19 02:00:20 +0000      880 bytes  addon/route-handlers/shorthands/put.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-19 02:00:20 +0000     2684 bytes  addon/serializer-registry.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-19 02:00:20 +0000    12538 bytes  addon/serializer.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-19 02:00:20 +0000     1089 bytes  addon/serializers/active-model-serializer.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-19 02:00:20 +0000     5125 bytes  addon/serializers/json-api-serializer.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-19 02:00:20 +0000      633 bytes  addon/serializers/rest-serializer.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-19 02:00:20 +0000    19320 bytes  addon/server.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-19 02:00:20 +0000      133 bytes  addon/trait.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-19 02:00:20 +0000     1267 bytes  addon/utils/extend.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-19 02:00:20 +0000      276 bytes  addon/utils/inflector.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-19 02:00:20 +0000      158 bytes  addon/utils/is-association.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-19 02:00:20 +0000      331 bytes  addon/utils/normalize-name.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-19 02:00:20 +0000     1897 bytes  addon/utils/read-modules.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-19 02:00:20 +0000     1079 bytes  addon/utils/reference-sort.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-19 02:00:20 +0000      246 bytes  addon/utils/uuid.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-19 02:00:20 +0000     1330 bytes  app/initializers/ember-cli-mirage.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-19 02:00:20 +0000      758 bytes  blueprints/ember-cli-mirage/files/__root__/confi\</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 02:01:45 +0000 18943778 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 02:01:45 +0000    24915 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 02:01:45 +0000     2000 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 02:01:45 +0000      324 bytes  ISSUE_TEMPLATE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 02:01:45 +0000     1066 bytes  LICENSE.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 02:01:45 +0000     1671 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 02:01:45 +0000      853 bytes  addon/assert.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 02:01:45 +0000      178 bytes  addon/association.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 02:01:45 +0000     8900 bytes  addon/db-collection.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 02:01:45 +0000     1742 bytes  addon/db.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 02:01:45 +0000     3499 bytes  addon/factory.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 02:01:45 +0000      487 bytes  addon/faker.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 02:01:45 +0000      977 bytes  addon/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 02:01:45 +0000     2778 bytes  addon/orm/associations/association.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 02:01:45 +0000     5121 bytes  addon/orm/associations/belongs-to.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 02:01:45 +0000     5852 bytes  addon/orm/associations/has-many.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 02:01:45 +0000     3394 bytes  addon/orm/collection.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 02:01:45 +0000    16051 bytes  addon/orm/model.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 02:01:45 +0000     9087 bytes  addon/orm/schema.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 02:01:45 +0000      372 bytes  addon/response.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 02:01:45 +0000     4031 bytes  addon/route-handler.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 02:01:45 +0000     2684 bytes  addon/route-handlers/base.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 02:01:45 +0000     1157 bytes  addon/route-handlers/function.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 02:01:45 +0000      265 bytes  addon/route-handlers/object.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 02:01:45 +0000     1101 bytes  addon/route-handlers/shorthands/base.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 02:01:45 +0000     1480 bytes  addon/route-handlers/shorthands/delete.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 02:01:45 +0000     2266 bytes  addon/route-handlers/shorthands/get.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-19 02:01:45 +0000     1322 bytes  addon/route-handlers/shorthands/head.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-19 02:01:45 +0000      871 bytes  addon/route-handlers/shorthands/post.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-19 02:01:45 +0000      880 bytes  addon/route-handlers/shorthands/put.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-19 02:01:45 +0000     2684 bytes  addon/serializer-registry.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-19 02:01:45 +0000    12538 bytes  addon/serializer.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-19 02:01:45 +0000     1089 bytes  addon/serializers/active-model-serializer.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-19 02:01:45 +0000     5125 bytes  addon/serializers/json-api-serializer.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-19 02:01:45 +0000      633 bytes  addon/serializers/rest-serializer.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-19 02:01:45 +0000    19320 bytes  addon/server.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-19 02:01:45 +0000      133 bytes  addon/trait.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-19 02:01:45 +0000     1267 bytes  addon/utils/extend.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-19 02:01:45 +0000      276 bytes  addon/utils/inflector.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-19 02:01:45 +0000      158 bytes  addon/utils/is-association.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-19 02:01:45 +0000      331 bytes  addon/utils/normalize-name.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-19 02:01:45 +0000     1897 bytes  addon/utils/read-modules.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-19 02:01:45 +0000     1079 bytes  addon/utils/reference-sort.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-19 02:01:45 +0000      246 bytes  addon/utils/uuid.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-19 02:01:45 +0000     1330 bytes  app/initializers/ember-cli-mirage.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-19 02:01:45 +0000      758 bytes  blueprints/ember-cli-mirage/files/__root__/confi\</tspan>
 <tspan x="10" y="762">g.js</tspan>
-<tspan x="10" y="778"> 46.  2017-04-19 02:00:20 +0000      265 bytes  blueprints/ember-cli-mirage/files/__root__/scena\</tspan>
+<tspan x="10" y="778"> 46.  2017-04-19 02:01:45 +0000      265 bytes  blueprints/ember-cli-mirage/files/__root__/scena\</tspan>
 <tspan x="10" y="794">rios/default.js</tspan>
-<tspan x="10" y="810"> 47.  2017-04-19 02:00:20 +0000      101 bytes  blueprints/ember-cli-mirage/files/__root__/seria\</tspan>
+<tspan x="10" y="810"> 47.  2017-04-19 02:01:45 +0000      101 bytes  blueprints/ember-cli-mirage/files/__root__/seria\</tspan>
 <tspan x="10" y="826">lizers/application.js</tspan>
-<tspan x="10" y="842"> 48.  2017-04-19 02:00:20 +0000     1895 bytes  blueprints/ember-cli-mirage/index.js</tspan>
-<tspan x="10" y="858"> 49.  2017-04-19 02:00:20 +0000       81 bytes  blueprints/mirage-factory/files/__root__/factori\</tspan>
+<tspan x="10" y="842"> 48.  2017-04-19 02:01:45 +0000     1895 bytes  blueprints/ember-cli-mirage/index.js</tspan>
+<tspan x="10" y="858"> 49.  2017-04-19 02:01:45 +0000       81 bytes  blueprints/mirage-factory/files/__root__/factori\</tspan>
 <tspan x="10" y="874">es/__name__.js</tspan>
-<tspan x="10" y="890"> 50.  2017-04-19 02:00:20 +0000      589 bytes  blueprints/mirage-factory/index.js</tspan>
-<tspan x="10" y="906"> 51.  2017-04-19 02:00:20 +0000       20 bytes  blueprints/mirage-fixture/files/__root__/fixture\</tspan>
+<tspan x="10" y="890"> 50.  2017-04-19 02:01:45 +0000      589 bytes  blueprints/mirage-factory/index.js</tspan>
+<tspan x="10" y="906"> 51.  2017-04-19 02:01:45 +0000       20 bytes  blueprints/mirage-fixture/files/__root__/fixture\</tspan>
 <tspan x="10" y="922">s/__name__.js</tspan>
-<tspan x="10" y="938"> 52.  2017-04-19 02:00:20 +0000      591 bytes  blueprints/mirage-fixture/index.js</tspan>
-<tspan x="10" y="954"> 53.  2017-04-19 02:00:20 +0000       77 bytes  blueprints/mirage-model/files/__root__/models/__\</tspan>
+<tspan x="10" y="938"> 52.  2017-04-19 02:01:45 +0000      591 bytes  blueprints/mirage-fixture/index.js</tspan>
+<tspan x="10" y="954"> 53.  2017-04-19 02:01:45 +0000       77 bytes  blueprints/mirage-model/files/__root__/models/__\</tspan>
 <tspan x="10" y="970">name__.js</tspan>
-<tspan x="10" y="986"> 54.  2017-04-19 02:00:20 +0000      589 bytes  blueprints/mirage-model/index.js</tspan>
-<tspan x="10" y="1002"> 55.  2017-04-19 02:00:20 +0000      101 bytes  blueprints/mirage-serializer/files/__root__/seri\</tspan>
+<tspan x="10" y="986"> 54.  2017-04-19 02:01:45 +0000      589 bytes  blueprints/mirage-model/index.js</tspan>
+<tspan x="10" y="1002"> 55.  2017-04-19 02:01:45 +0000      101 bytes  blueprints/mirage-serializer/files/__root__/seri\</tspan>
 <tspan x="10" y="1018">alizers/__name__.js</tspan>
-<tspan x="10" y="1034"> 56.  2017-04-19 02:00:20 +0000      594 bytes  blueprints/mirage-serializer/index.js</tspan>
-<tspan x="10" y="1050"> 57.  2017-04-19 02:00:20 +0000      754 bytes  config/environment.js</tspan>
-<tspan x="10" y="1066"> 58.  2017-04-19 02:00:20 +0000     4251 bytes  index.js</tspan>
-<tspan x="10" y="1082"> 59.  2017-04-19 02:00:20 +0000     3279 bytes  jekyll-tmp/404.html</tspan>
-<tspan x="10" y="1098"> 60.  2017-04-19 02:00:20 +0000       24 bytes  jekyll-tmp/CNAME</tspan>
-<tspan x="10" y="1114"> 61.  2017-04-19 02:00:20 +0000      199 bytes  jekyll-tmp/Gemfile</tspan>
-<tspan x="10" y="1130"> 62.  2017-04-19 02:00:20 +0000     5330 bytes  jekyll-tmp/Gemfile.lock</tspan>
-<tspan x="10" y="1146"> 63.  2017-04-19 02:00:20 +0000     1083 bytes  jekyll-tmp/LICENSE.md</tspan>
-<tspan x="10" y="1162"> 64.  2017-04-19 02:00:20 +0000      139 bytes  jekyll-tmp/README.md</tspan>
-<tspan x="10" y="1178"> 65.  2017-04-19 02:00:20 +0000     5891 bytes  jekyll-tmp/about/index.html</tspan>
-<tspan x="10" y="1194"> 66.  2017-04-19 02:00:20 +0000    81123 bytes  jekyll-tmp/atom.xml</tspan>
-<tspan x="10" y="1210"> 67.  2017-04-19 02:00:20 +0000     8129 bytes  jekyll-tmp/blog/2015/09/06/thoughts-on-model-att\</tspan>
+<tspan x="10" y="1034"> 56.  2017-04-19 02:01:45 +0000      594 bytes  blueprints/mirage-serializer/index.js</tspan>
+<tspan x="10" y="1050"> 57.  2017-04-19 02:01:45 +0000      754 bytes  config/environment.js</tspan>
+<tspan x="10" y="1066"> 58.  2017-04-19 02:01:45 +0000     4251 bytes  index.js</tspan>
+<tspan x="10" y="1082"> 59.  2017-04-19 02:01:45 +0000     3279 bytes  jekyll-tmp/404.html</tspan>
+<tspan x="10" y="1098"> 60.  2017-04-19 02:01:45 +0000       24 bytes  jekyll-tmp/CNAME</tspan>
+<tspan x="10" y="1114"> 61.  2017-04-19 02:01:45 +0000      199 bytes  jekyll-tmp/Gemfile</tspan>
+<tspan x="10" y="1130"> 62.  2017-04-19 02:01:45 +0000     5330 bytes  jekyll-tmp/Gemfile.lock</tspan>
+<tspan x="10" y="1146"> 63.  2017-04-19 02:01:45 +0000     1083 bytes  jekyll-tmp/LICENSE.md</tspan>
+<tspan x="10" y="1162"> 64.  2017-04-19 02:01:45 +0000      139 bytes  jekyll-tmp/README.md</tspan>
+<tspan x="10" y="1178"> 65.  2017-04-19 02:01:45 +0000     5891 bytes  jekyll-tmp/about/index.html</tspan>
+<tspan x="10" y="1194"> 66.  2017-04-19 02:01:45 +0000    81123 bytes  jekyll-tmp/atom.xml</tspan>
+<tspan x="10" y="1210"> 67.  2017-04-19 02:01:45 +0000     8129 bytes  jekyll-tmp/blog/2015/09/06/thoughts-on-model-att\</tspan>
 <tspan x="10" y="1226">ribute-formatting/index.html</tspan>
-<tspan x="10" y="1242"> 68.  2017-04-19 02:00:20 +0000     6100 bytes  jekyll-tmp/blog/2015/09/10/orm-not-ready-yet/ind\</tspan>
+<tspan x="10" y="1242"> 68.  2017-04-19 02:01:45 +0000     6100 bytes  jekyll-tmp/blog/2015/09/10/orm-not-ready-yet/ind\</tspan>
 <tspan x="10" y="1258">ex.html</tspan>
-<tspan x="10" y="1274"> 69.  2017-04-19 02:00:20 +0000     6984 bytes  jekyll-tmp/blog/2015/09/15/router-handler/index.\</tspan>
+<tspan x="10" y="1274"> 69.  2017-04-19 02:01:45 +0000     6984 bytes  jekyll-tmp/blog/2015/09/15/router-handler/index.\</tspan>
 <tspan x="10" y="1290">html</tspan>
-<tspan x="10" y="1306"> 70.  2017-04-19 02:00:20 +0000    11002 bytes  jekyll-tmp/blog/2015/10/19/serializers-ready/ind\</tspan>
+<tspan x="10" y="1306"> 70.  2017-04-19 02:01:45 +0000    11002 bytes  jekyll-tmp/blog/2015/10/19/serializers-ready/ind\</tspan>
 <tspan x="10" y="1322">ex.html</tspan>
-<tspan x="10" y="1338"> 71.  2017-04-19 02:00:20 +0000     4631 bytes  jekyll-tmp/blog/2015/11/03/inside-ember-cli-mira\</tspan>
+<tspan x="10" y="1338"> 71.  2017-04-19 02:01:45 +0000     4631 bytes  jekyll-tmp/blog/2015/11/03/inside-ember-cli-mira\</tspan>
 <tspan x="10" y="1354">ge/index.html</tspan>
-<tspan x="10" y="1370"> 72.  2017-04-19 02:00:20 +0000    19333 bytes  jekyll-tmp/blog/2016/01/03/0-2-0-beta.9-released\</tspan>
+<tspan x="10" y="1370"> 72.  2017-04-19 02:01:45 +0000    19333 bytes  jekyll-tmp/blog/2016/01/03/0-2-0-beta.9-released\</tspan>
 <tspan x="10" y="1386">/index.html</tspan>
-<tspan x="10" y="1402"> 73.  2017-04-19 02:00:20 +0000    11738 bytes  jekyll-tmp/blog/2016/01/03/0-2-update-only-injec\</tspan>
+<tspan x="10" y="1402"> 73.  2017-04-19 02:01:45 +0000    11738 bytes  jekyll-tmp/blog/2016/01/03/0-2-update-only-injec\</tspan>
 <tspan x="10" y="1418">t-schema/index.html</tspan>
-<tspan x="10" y="1434"> 74.  2017-04-19 02:00:20 +0000     6812 bytes  jekyll-tmp/blog/2016/05/31/0-2-0-released/index.\</tspan>
+<tspan x="10" y="1434"> 74.  2017-04-19 02:01:45 +0000     6812 bytes  jekyll-tmp/blog/2016/05/31/0-2-0-released/index.\</tspan>
 <tspan x="10" y="1450">html</tspan>
-<tspan x="10" y="1466"> 75.  2017-04-19 02:00:20 +0000    22160 bytes  jekyll-tmp/blog/2017/01/09/0-3-0-beta-series/ind\</tspan>
+<tspan x="10" y="1466"> 75.  2017-04-19 02:01:45 +0000    22160 bytes  jekyll-tmp/blog/2017/01/09/0-3-0-beta-series/ind\</tspan>
 <tspan x="10" y="1482">ex.html</tspan>
-<tspan x="10" y="1498"> 76.  2017-04-19 02:00:20 +0000    64825 bytes  jekyll-tmp/blog/index.html</tspan>
-<tspan x="10" y="1514"> 77.  2017-04-19 02:00:20 +0000       31 bytes  jekyll-tmp/dist/assets/dummy.css</tspan>
-<tspan x="10" y="1530"> 78.  2017-04-19 02:00:20 +0000    58033 bytes  jekyll-tmp/dist/assets/dummy.js</tspan>
-<tspan x="10" y="1546"> 79.  2017-04-19 02:00:20 +0000    74439 bytes  jekyll-tmp/dist/assets/dummy.map</tspan>
-<tspan x="10" y="1562"> 80.  2017-04-19 02:00:20 +0000    26702 bytes  jekyll-tmp/dist/assets/failed.png</tspan>
-<tspan x="10" y="1578"> 81.  2017-04-19 02:00:20 +0000    16445 bytes  jekyll-tmp/dist/assets/passed.png</tspan>
-<tspan x="10" y="1594"> 82.  2017-04-19 02:00:20 +0000     2451 bytes  jekyll-tmp/dist/assets/test-loader.js</tspan>
-<tspan x="10" y="1610"> 83.  2017-04-19 02:00:20 +0000     8320 bytes  jekyll-tmp/dist/assets/test-support.css</tspan>
-<tspan x="10" y="1626"> 84.  2017-04-19 02:00:20 +0000   488315 bytes  jekyll-tmp/dist/assets/test-support.js</tspan>
-<tspan x="10" y="1642"> 85.  2017-04-19 02:00:20 +0000   594504 bytes  jekyll-tmp/dist/assets/test-support.map</tspan>
-<tspan x="10" y="1658"> 86.  2017-04-19 02:00:20 +0000   893713 bytes  jekyll-tmp/dist/assets/tests.js</tspan>
-<tspan x="10" y="1674"> 87.  2017-04-19 02:00:20 +0000  1066355 bytes  jekyll-tmp/dist/assets/tests.map</tspan>
-<tspan x="10" y="1690"> 88.  2017-04-19 02:00:20 +0000        0 bytes  jekyll-tmp/dist/assets/vendor.css</tspan>
-<tspan x="10" y="1706"> 89.  2017-04-19 02:00:20 +0000  6042241 bytes  jekyll-tmp/dist/assets/vendor.js</tspan>
-<tspan x="10" y="1722"> 90.  2017-04-19 02:00:20 +0000  7282186 bytes  jekyll-tmp/dist/assets/vendor.map</tspan>
-<tspan x="10" y="1738"> 91.  2017-04-19 02:00:20 +0000      585 bytes  jekyll-tmp/dist/crossdomain.xml</tspan>
-<tspan x="10" y="1754"> 92.  2017-04-19 02:00:20 +0000     1515 bytes  jekyll-tmp/dist/index.html</tspan>
-<tspan x="10" y="1770"> 93.  2017-04-19 02:00:20 +0000       51 bytes  jekyll-tmp/dist/robots.txt</tspan>
-<tspan x="10" y="1786"> 94.  2017-04-19 02:00:20 +0000     2121 bytes  jekyll-tmp/dist/tests/index.html</tspan>
-<tspan x="10" y="1802"> 95.  2017-04-19 02:00:20 +0000      506 bytes  jekyll-tmp/docs/latest/acceptance-testing/index.\</tspan>
+<tspan x="10" y="1498"> 76.  2017-04-19 02:01:45 +0000    64825 bytes  jekyll-tmp/blog/index.html</tspan>
+<tspan x="10" y="1514"> 77.  2017-04-19 02:01:45 +0000       31 bytes  jekyll-tmp/dist/assets/dummy.css</tspan>
+<tspan x="10" y="1530"> 78.  2017-04-19 02:01:45 +0000    58033 bytes  jekyll-tmp/dist/assets/dummy.js</tspan>
+<tspan x="10" y="1546"> 79.  2017-04-19 02:01:45 +0000    74439 bytes  jekyll-tmp/dist/assets/dummy.map</tspan>
+<tspan x="10" y="1562"> 80.  2017-04-19 02:01:45 +0000    26702 bytes  jekyll-tmp/dist/assets/failed.png</tspan>
+<tspan x="10" y="1578"> 81.  2017-04-19 02:01:45 +0000    16445 bytes  jekyll-tmp/dist/assets/passed.png</tspan>
+<tspan x="10" y="1594"> 82.  2017-04-19 02:01:45 +0000     2451 bytes  jekyll-tmp/dist/assets/test-loader.js</tspan>
+<tspan x="10" y="1610"> 83.  2017-04-19 02:01:45 +0000     8320 bytes  jekyll-tmp/dist/assets/test-support.css</tspan>
+<tspan x="10" y="1626"> 84.  2017-04-19 02:01:45 +0000   488315 bytes  jekyll-tmp/dist/assets/test-support.js</tspan>
+<tspan x="10" y="1642"> 85.  2017-04-19 02:01:45 +0000   594504 bytes  jekyll-tmp/dist/assets/test-support.map</tspan>
+<tspan x="10" y="1658"> 86.  2017-04-19 02:01:45 +0000   893713 bytes  jekyll-tmp/dist/assets/tests.js</tspan>
+<tspan x="10" y="1674"> 87.  2017-04-19 02:01:45 +0000  1066355 bytes  jekyll-tmp/dist/assets/tests.map</tspan>
+<tspan x="10" y="1690"> 88.  2017-04-19 02:01:45 +0000        0 bytes  jekyll-tmp/dist/assets/vendor.css</tspan>
+<tspan x="10" y="1706"> 89.  2017-04-19 02:01:45 +0000  6042241 bytes  jekyll-tmp/dist/assets/vendor.js</tspan>
+<tspan x="10" y="1722"> 90.  2017-04-19 02:01:45 +0000  7282186 bytes  jekyll-tmp/dist/assets/vendor.map</tspan>
+<tspan x="10" y="1738"> 91.  2017-04-19 02:01:45 +0000      585 bytes  jekyll-tmp/dist/crossdomain.xml</tspan>
+<tspan x="10" y="1754"> 92.  2017-04-19 02:01:45 +0000     1515 bytes  jekyll-tmp/dist/index.html</tspan>
+<tspan x="10" y="1770"> 93.  2017-04-19 02:01:45 +0000       51 bytes  jekyll-tmp/dist/robots.txt</tspan>
+<tspan x="10" y="1786"> 94.  2017-04-19 02:01:45 +0000     2121 bytes  jekyll-tmp/dist/tests/index.html</tspan>
+<tspan x="10" y="1802"> 95.  2017-04-19 02:01:45 +0000      506 bytes  jekyll-tmp/docs/latest/acceptance-testing/index.\</tspan>
 <tspan x="10" y="1818">html</tspan>
-<tspan x="10" y="1834"> 96.  2017-04-19 02:00:20 +0000      466 bytes  jekyll-tmp/docs/latest/database/index.html</tspan>
-<tspan x="10" y="1850"> 97.  2017-04-19 02:00:20 +0000      494 bytes  jekyll-tmp/docs/latest/defining-routes/index.htm\</tspan>
+<tspan x="10" y="1834"> 96.  2017-04-19 02:01:45 +0000      466 bytes  jekyll-tmp/docs/latest/database/index.html</tspan>
+<tspan x="10" y="1850"> 97.  2017-04-19 02:01:45 +0000      494 bytes  jekyll-tmp/docs/latest/defining-routes/index.htm\</tspan>
 <tspan x="10" y="1866">l</tspan>
-<tspan x="10" y="1882"> 98.  2017-04-19 02:00:20 +0000      470 bytes  jekyll-tmp/docs/latest/factories/index.html</tspan>
-<tspan x="10" y="1898"> 99.  2017-04-19 02:00:20 +0000      482 bytes  jekyll-tmp/docs/latest/installation/index.html</tspan>
-<tspan x="10" y="1914">100.  2017-04-19 02:00:20 +0000      474 bytes  jekyll-tmp/docs/latest/quickstart/index.html</tspan>
-<tspan x="10" y="1930">101.  2017-04-19 02:00:20 +0000      458 bytes  jekyll-tmp/docs/latest/routes/index.html</tspan>
-<tspan x="10" y="1946">102.  2017-04-19 02:00:20 +0000      518 bytes  jekyll-tmp/docs/latest/seeding-your-database/ind\</tspan>
+<tspan x="10" y="1882"> 98.  2017-04-19 02:01:45 +0000      470 bytes  jekyll-tmp/docs/latest/factories/index.html</tspan>
+<tspan x="10" y="1898"> 99.  2017-04-19 02:01:45 +0000      482 bytes  jekyll-tmp/docs/latest/installation/index.html</tspan>
+<tspan x="10" y="1914">100.  2017-04-19 02:01:45 +0000      474 bytes  jekyll-tmp/docs/latest/quickstart/index.html</tspan>
+<tspan x="10" y="1930">101.  2017-04-19 02:01:45 +0000      458 bytes  jekyll-tmp/docs/latest/routes/index.html</tspan>
+<tspan x="10" y="1946">102.  2017-04-19 02:01:45 +0000      518 bytes  jekyll-tmp/docs/latest/seeding-your-database/ind\</tspan>
 <tspan x="10" y="1962">ex.html</tspan>
-<tspan x="10" y="1978">103.  2017-04-19 02:00:20 +0000      514 bytes  jekyll-tmp/docs/latest/server-configuration/inde\</tspan>
+<tspan x="10" y="1978">103.  2017-04-19 02:01:45 +0000      514 bytes  jekyll-tmp/docs/latest/server-configuration/inde\</tspan>
 <tspan x="10" y="1994">x.html</tspan>
-<tspan x="10" y="2010">104.  2017-04-19 02:00:20 +0000      474 bytes  jekyll-tmp/docs/latest/shorthands/index.html</tspan>
-<tspan x="10" y="2026">105.  2017-04-19 02:00:20 +0000      542 bytes  jekyll-tmp/docs/latest/simulating-cookie-respons\</tspan>
+<tspan x="10" y="2010">104.  2017-04-19 02:01:45 +0000      474 bytes  jekyll-tmp/docs/latest/shorthands/index.html</tspan>
+<tspan x="10" y="2026">105.  2017-04-19 02:01:45 +0000      542 bytes  jekyll-tmp/docs/latest/simulating-cookie-respons\</tspan>
 <tspan x="10" y="2042">es/index.html</tspan>
-<tspan x="10" y="2058">106.  2017-04-19 02:00:20 +0000    18897 bytes  jekyll-tmp/docs/v0.0.27/acceptance-testing/index\</tspan>
+<tspan x="10" y="2058">106.  2017-04-19 02:01:45 +0000    18897 bytes  jekyll-tmp/docs/v0.0.27/acceptance-testing/index\</tspan>
 <tspan x="10" y="2074">.html</tspan>
-<tspan x="10" y="2090">107.  2017-04-19 02:00:20 +0000    17715 bytes  jekyll-tmp/docs/v0.0.27/database/index.html</tspan>
-<tspan x="10" y="2106">108.  2017-04-19 02:00:20 +0000    22781 bytes  jekyll-tmp/docs/v0.0.27/defining-routes/index.ht\</tspan>
+<tspan x="10" y="2090">107.  2017-04-19 02:01:45 +0000    17715 bytes  jekyll-tmp/docs/v0.0.27/database/index.html</tspan>
+<tspan x="10" y="2106">108.  2017-04-19 02:01:45 +0000    22781 bytes  jekyll-tmp/docs/v0.0.27/defining-routes/index.ht\</tspan>
 <tspan x="10" y="2122">ml</tspan>
-<tspan x="10" y="2138">109.  2017-04-19 02:00:20 +0000    20195 bytes  jekyll-tmp/docs/v0.0.27/factories/index.html</tspan>
-<tspan x="10" y="2154">110.  2017-04-19 02:00:20 +0000    10165 bytes  jekyll-tmp/docs/v0.0.27/index.html</tspan>
-<tspan x="10" y="2170">111.  2017-04-19 02:00:20 +0000     9306 bytes  jekyll-tmp/docs/v0.0.27/installation/index.html</tspan>
-<tspan x="10" y="2186">112.  2017-04-19 02:00:20 +0000    18772 bytes  jekyll-tmp/docs/v0.0.27/quickstart/index.html</tspan>
-<tspan x="10" y="2202">113.  2017-04-19 02:00:20 +0000    16499 bytes  jekyll-tmp/docs/v0.0.27/routes/index.html</tspan>
-<tspan x="10" y="2218">114.  2017-04-19 02:00:20 +0000    18814 bytes  jekyll-tmp/docs/v0.0.27/seeding-your-database/in\</tspan>
+<tspan x="10" y="2138">109.  2017-04-19 02:01:45 +0000    20195 bytes  jekyll-tmp/docs/v0.0.27/factories/index.html</tspan>
+<tspan x="10" y="2154">110.  2017-04-19 02:01:45 +0000    10165 bytes  jekyll-tmp/docs/v0.0.27/index.html</tspan>
+<tspan x="10" y="2170">111.  2017-04-19 02:01:45 +0000     9306 bytes  jekyll-tmp/docs/v0.0.27/installation/index.html</tspan>
+<tspan x="10" y="2186">112.  2017-04-19 02:01:45 +0000    18772 bytes  jekyll-tmp/docs/v0.0.27/quickstart/index.html</tspan>
+<tspan x="10" y="2202">113.  2017-04-19 02:01:45 +0000    16499 bytes  jekyll-tmp/docs/v0.0.27/routes/index.html</tspan>
+<tspan x="10" y="2218">114.  2017-04-19 02:01:45 +0000    18814 bytes  jekyll-tmp/docs/v0.0.27/seeding-your-database/in\</tspan>
 <tspan x="10" y="2234">dex.html</tspan>
-<tspan x="10" y="2250">115.  2017-04-19 02:00:20 +0000    14473 bytes  jekyll-tmp/docs/v0.0.27/server-configuration/ind\</tspan>
+<tspan x="10" y="2250">115.  2017-04-19 02:01:45 +0000    14473 bytes  jekyll-tmp/docs/v0.0.27/server-configuration/ind\</tspan>
 <tspan x="10" y="2266">ex.html</tspan>
-<tspan x="10" y="2282">116.  2017-04-19 02:00:20 +0000    26308 bytes  jekyll-tmp/docs/v0.0.27/shorthands/index.html</tspan>
-<tspan x="10" y="2298">117.  2017-04-19 02:00:20 +0000    18897 bytes  jekyll-tmp/docs/v0.0.28/acceptance-testing/index\</tspan>
+<tspan x="10" y="2282">116.  2017-04-19 02:01:45 +0000    26308 bytes  jekyll-tmp/docs/v0.0.27/shorthands/index.html</tspan>
+<tspan x="10" y="2298">117.  2017-04-19 02:01:45 +0000    18897 bytes  jekyll-tmp/docs/v0.0.28/acceptance-testing/index\</tspan>
 <tspan x="10" y="2314">.html</tspan>
-<tspan x="10" y="2330">118.  2017-04-19 02:00:20 +0000    18124 bytes  jekyll-tmp/docs/v0.0.28/database/index.html</tspan>
-<tspan x="10" y="2346">119.  2017-04-19 02:00:20 +0000    22781 bytes  jekyll-tmp/docs/v0.0.28/defining-routes/index.ht\</tspan>
+<tspan x="10" y="2330">118.  2017-04-19 02:01:45 +0000    18124 bytes  jekyll-tmp/docs/v0.0.28/database/index.html</tspan>
+<tspan x="10" y="2346">119.  2017-04-19 02:01:45 +0000    22781 bytes  jekyll-tmp/docs/v0.0.28/defining-routes/index.ht\</tspan>
 <tspan x="10" y="2362">ml</tspan>
-<tspan x="10" y="2378">120.  2017-04-19 02:00:20 +0000    20195 bytes  jekyll-tmp/docs/v0.0.28/factories/index.html</tspan>
-<tspan x="10" y="2394">121.  2017-04-19 02:00:20 +0000    10165 bytes  jekyll-tmp/docs/v0.0.28/index.html</tspan>
-<tspan x="10" y="2410">122.  2017-04-19 02:00:20 +0000     9105 bytes  jekyll-tmp/docs/v0.0.28/installation/index.html</tspan>
-<tspan x="10" y="2426">123.  2017-04-19 02:00:20 +0000    18772 bytes  jekyll-tmp/docs/v0.0.28/quickstart/index.html</tspan>
-<tspan x="10" y="2442">124.  2017-04-19 02:00:20 +0000    16563 bytes  jekyll-tmp/docs/v0.0.28/routes/index.html</tspan>
-<tspan x="10" y="2458">125.  2017-04-19 02:00:20 +0000    18814 bytes  jekyll-tmp/docs/v0.0.28/seeding-your-database/in\</tspan>
+<tspan x="10" y="2378">120.  2017-04-19 02:01:45 +0000    20195 bytes  jekyll-tmp/docs/v0.0.28/factories/index.html</tspan>
+<tspan x="10" y="2394">121.  2017-04-19 02:01:45 +0000    10165 bytes  jekyll-tmp/docs/v0.0.28/index.html</tspan>
+<tspan x="10" y="2410">122.  2017-04-19 02:01:45 +0000     9105 bytes  jekyll-tmp/docs/v0.0.28/installation/index.html</tspan>
+<tspan x="10" y="2426">123.  2017-04-19 02:01:45 +0000    18772 bytes  jekyll-tmp/docs/v0.0.28/quickstart/index.html</tspan>
+<tspan x="10" y="2442">124.  2017-04-19 02:01:45 +0000    16563 bytes  jekyll-tmp/docs/v0.0.28/routes/index.html</tspan>
+<tspan x="10" y="2458">125.  2017-04-19 02:01:45 +0000    18814 bytes  jekyll-tmp/docs/v0.0.28/seeding-your-database/in\</tspan>
 <tspan x="10" y="2474">dex.html</tspan>
-<tspan x="10" y="2490">126.  2017-04-19 02:00:20 +0000    14473 bytes  jekyll-tmp/docs/v0.0.28/server-configuration/ind\</tspan>
+<tspan x="10" y="2490">126.  2017-04-19 02:01:45 +0000    14473 bytes  jekyll-tmp/docs/v0.0.28/server-configuration/ind\</tspan>
 <tspan x="10" y="2506">ex.html</tspan>
-<tspan x="10" y="2522">127.  2017-04-19 02:00:20 +0000    28685 bytes  jekyll-tmp/docs/v0.0.28/shorthands/index.html</tspan>
-<tspan x="10" y="2538">128.  2017-04-19 02:00:20 +0000    18897 bytes  jekyll-tmp/docs/v0.0.29/acceptance-testing/index\</tspan>
+<tspan x="10" y="2522">127.  2017-04-19 02:01:45 +0000    28685 bytes  jekyll-tmp/docs/v0.0.28/shorthands/index.html</tspan>
+<tspan x="10" y="2538">128.  2017-04-19 02:01:45 +0000    18897 bytes  jekyll-tmp/docs/v0.0.29/acceptance-testing/index\</tspan>
 <tspan x="10" y="2554">.html</tspan>
-<tspan x="10" y="2570">129.  2017-04-19 02:00:20 +0000    18171 bytes  jekyll-tmp/docs/v0.0.29/database/index.html</tspan>
-<tspan x="10" y="2586">130.  2017-04-19 02:00:20 +0000    22781 bytes  jekyll-tmp/docs/v0.0.29/defining-routes/index.ht\</tspan>
+<tspan x="10" y="2570">129.  2017-04-19 02:01:45 +0000    18171 bytes  jekyll-tmp/docs/v0.0.29/database/index.html</tspan>
+<tspan x="10" y="2586">130.  2017-04-19 02:01:45 +0000    22781 bytes  jekyll-tmp/docs/v0.0.29/defining-routes/index.ht\</tspan>
 <tspan x="10" y="2602">ml</tspan>
-<tspan x="10" y="2618">131.  2017-04-19 02:00:20 +0000    20195 bytes  jekyll-tmp/docs/v0.0.29/factories/index.html</tspan>
-<tspan x="10" y="2634">132.  2017-04-19 02:00:20 +0000    10166 bytes  jekyll-tmp/docs/v0.0.29/index.html</tspan>
-<tspan x="10" y="2650">133.  2017-04-19 02:00:20 +0000     9105 bytes  jekyll-tmp/docs/v0.0.29/installation/index.html</tspan>
-<tspan x="10" y="2666">134.  2017-04-19 02:00:20 +0000    18772 bytes  jekyll-tmp/docs/v0.0.29/quickstart/index.html</tspan>
-<tspan x="10" y="2682">135.  2017-04-19 02:00:20 +0000    16924 bytes  jekyll-tmp/docs/v0.0.29/routes/index.html</tspan>
-<tspan x="10" y="2698">136.  2017-04-19 02:00:20 +0000    18814 bytes  jekyll-tmp/docs/v0.0.29/seeding-your-database/in\</tspan>
+<tspan x="10" y="2618">131.  2017-04-19 02:01:45 +0000    20195 bytes  jekyll-tmp/docs/v0.0.29/factories/index.html</tspan>
+<tspan x="10" y="2634">132.  2017-04-19 02:01:45 +0000    10166 bytes  jekyll-tmp/docs/v0.0.29/index.html</tspan>
+<tspan x="10" y="2650">133.  2017-04-19 02:01:45 +0000     9105 bytes  jekyll-tmp/docs/v0.0.29/installation/index.html</tspan>
+<tspan x="10" y="2666">134.  2017-04-19 02:01:45 +0000    18772 bytes  jekyll-tmp/docs/v0.0.29/quickstart/index.html</tspan>
+<tspan x="10" y="2682">135.  2017-04-19 02:01:45 +0000    16924 bytes  jekyll-tmp/docs/v0.0.29/routes/index.html</tspan>
+<tspan x="10" y="2698">136.  2017-04-19 02:01:45 +0000    18814 bytes  jekyll-tmp/docs/v0.0.29/seeding-your-database/in\</tspan>
 <tspan x="10" y="2714">dex.html</tspan>
-<tspan x="10" y="2730">137.  2017-04-19 02:00:20 +0000    14481 bytes  jekyll-tmp/docs/v0.0.29/server-configuration/ind\</tspan>
+<tspan x="10" y="2730">137.  2017-04-19 02:01:45 +0000    14481 bytes  jekyll-tmp/docs/v0.0.29/server-configuration/ind\</tspan>
 <tspan x="10" y="2746">ex.html</tspan>
-<tspan x="10" y="2762">138.  2017-04-19 02:00:20 +0000    28700 bytes  jekyll-tmp/docs/v0.0.29/shorthands/index.html</tspan>
-<tspan x="10" y="2778">139.  2017-04-19 02:00:20 +0000    25468 bytes  jekyll-tmp/docs/v0.1.x/acceptance-testing/index.\</tspan>
+<tspan x="10" y="2762">138.  2017-04-19 02:01:45 +0000    28700 bytes  jekyll-tmp/docs/v0.0.29/shorthands/index.html</tspan>
+<tspan x="10" y="2778">139.  2017-04-19 02:01:45 +0000    25468 bytes  jekyll-tmp/docs/v0.1.x/acceptance-testing/index.\</tspan>
 <tspan x="10" y="2794">html</tspan>
-<tspan x="10" y="2810">140.  2017-04-19 02:00:20 +0000    22060 bytes  jekyll-tmp/docs/v0.1.x/database/index.html</tspan>
-<tspan x="10" y="2826">141.  2017-04-19 02:00:20 +0000    24915 bytes  jekyll-tmp/docs/v0.1.x/defining-routes/index.htm\</tspan>
+<tspan x="10" y="2810">140.  2017-04-19 02:01:45 +0000    22060 bytes  jekyll-tmp/docs/v0.1.x/database/index.html</tspan>
+<tspan x="10" y="2826">141.  2017-04-19 02:01:45 +0000    24915 bytes  jekyll-tmp/docs/v0.1.x/defining-routes/index.htm\</tspan>
 <tspan x="10" y="2842">l</tspan>
-<tspan x="10" y="2858">142.  2017-04-19 02:00:20 +0000    26891 bytes  jekyll-tmp/docs/v0.1.x/factories/index.html</tspan>
-<tspan x="10" y="2874">143.  2017-04-19 02:00:20 +0000    11175 bytes  jekyll-tmp/docs/v0.1.x/index.html</tspan>
-<tspan x="10" y="2890">144.  2017-04-19 02:00:20 +0000    10853 bytes  jekyll-tmp/docs/v0.1.x/installation/index.html</tspan>
-<tspan x="10" y="2906">145.  2017-04-19 02:00:20 +0000    12547 bytes  jekyll-tmp/docs/v0.1.x/manually-starting-mirage/\</tspan>
+<tspan x="10" y="2858">142.  2017-04-19 02:01:45 +0000    26891 bytes  jekyll-tmp/docs/v0.1.x/factories/index.html</tspan>
+<tspan x="10" y="2874">143.  2017-04-19 02:01:45 +0000    11175 bytes  jekyll-tmp/docs/v0.1.x/index.html</tspan>
+<tspan x="10" y="2890">144.  2017-04-19 02:01:45 +0000    10853 bytes  jekyll-tmp/docs/v0.1.x/installation/index.html</tspan>
+<tspan x="10" y="2906">145.  2017-04-19 02:01:45 +0000    12547 bytes  jekyll-tmp/docs/v0.1.x/manually-starting-mirage/\</tspan>
 <tspan x="10" y="2922">index.html</tspan>
-<tspan x="10" y="2938">146.  2017-04-19 02:00:20 +0000    22502 bytes  jekyll-tmp/docs/v0.1.x/quickstart/index.html</tspan>
-<tspan x="10" y="2954">147.  2017-04-19 02:00:20 +0000    19720 bytes  jekyll-tmp/docs/v0.1.x/routes/index.html</tspan>
-<tspan x="10" y="2970">148.  2017-04-19 02:00:20 +0000    27713 bytes  jekyll-tmp/docs/v0.1.x/seeding-your-database/ind\</tspan>
+<tspan x="10" y="2938">146.  2017-04-19 02:01:45 +0000    22502 bytes  jekyll-tmp/docs/v0.1.x/quickstart/index.html</tspan>
+<tspan x="10" y="2954">147.  2017-04-19 02:01:45 +0000    19720 bytes  jekyll-tmp/docs/v0.1.x/routes/index.html</tspan>
+<tspan x="10" y="2970">148.  2017-04-19 02:01:45 +0000    27713 bytes  jekyll-tmp/docs/v0.1.x/seeding-your-database/ind\</tspan>
 <tspan x="10" y="2986">ex.html</tspan>
-<tspan x="10" y="3002">149.  2017-04-19 02:00:20 +0000    25004 bytes  jekyll-tmp/docs/v0.1.x/server-configuration/inde\</tspan>
+<tspan x="10" y="3002">149.  2017-04-19 02:01:45 +0000    25004 bytes  jekyll-tmp/docs/v0.1.x/server-configuration/inde\</tspan>
 <tspan x="10" y="3018">x.html</tspan>
-<tspan x="10" y="3034">150.  2017-04-19 02:00:20 +0000    29710 bytes  jekyll-tmp/docs/v0.1.x/shorthands/index.html</tspan>
-<tspan x="10" y="3050">151.  2017-04-19 02:00:20 +0000    12828 bytes  jekyll-tmp/docs/v0.1.x/simulating-cookie-respons\</tspan>
+<tspan x="10" y="3034">150.  2017-04-19 02:01:45 +0000    29710 bytes  jekyll-tmp/docs/v0.1.x/shorthands/index.html</tspan>
+<tspan x="10" y="3050">151.  2017-04-19 02:01:45 +0000    12828 bytes  jekyll-tmp/docs/v0.1.x/simulating-cookie-respons\</tspan>
 <tspan x="10" y="3066">es/index.html</tspan>
-<tspan x="10" y="3082">152.  2017-04-19 02:00:20 +0000    15720 bytes  jekyll-tmp/docs/v0.1.x/working-with-json-api/ind\</tspan>
+<tspan x="10" y="3082">152.  2017-04-19 02:01:45 +0000    15720 bytes  jekyll-tmp/docs/v0.1.x/working-with-json-api/ind\</tspan>
 <tspan x="10" y="3098">ex.html</tspan>
-<tspan x="10" y="3114">153.  2017-04-19 02:00:20 +0000    27437 bytes  jekyll-tmp/docs/v0.2.x/acceptance-testing/index.\</tspan>
+<tspan x="10" y="3114">153.  2017-04-19 02:01:45 +0000    27437 bytes  jekyll-tmp/docs/v0.2.x/acceptance-testing/index.\</tspan>
 <tspan x="10" y="3130">html</tspan>
-<tspan x="10" y="3146">154.  2017-04-19 02:00:20 +0000    10887 bytes  jekyll-tmp/docs/v0.2.x/changelog/index.html</tspan>
-<tspan x="10" y="3162">155.  2017-04-19 02:00:20 +0000    18308 bytes  jekyll-tmp/docs/v0.2.x/collections/index.html</tspan>
-<tspan x="10" y="3178">156.  2017-04-19 02:00:20 +0000    32593 bytes  jekyll-tmp/docs/v0.2.x/configuration/index.html</tspan>
-<tspan x="10" y="3194">157.  2017-04-19 02:00:20 +0000    24138 bytes  jekyll-tmp/docs/v0.2.x/database/index.html</tspan>
-<tspan x="10" y="3210">158.  2017-04-19 02:00:20 +0000    38661 bytes  jekyll-tmp/docs/v0.2.x/defining-routes/index.htm\</tspan>
+<tspan x="10" y="3146">154.  2017-04-19 02:01:45 +0000    10887 bytes  jekyll-tmp/docs/v0.2.x/changelog/index.html</tspan>
+<tspan x="10" y="3162">155.  2017-04-19 02:01:45 +0000    18308 bytes  jekyll-tmp/docs/v0.2.x/collections/index.html</tspan>
+<tspan x="10" y="3178">156.  2017-04-19 02:01:45 +0000    32593 bytes  jekyll-tmp/docs/v0.2.x/configuration/index.html</tspan>
+<tspan x="10" y="3194">157.  2017-04-19 02:01:45 +0000    24138 bytes  jekyll-tmp/docs/v0.2.x/database/index.html</tspan>
+<tspan x="10" y="3210">158.  2017-04-19 02:01:45 +0000    38661 bytes  jekyll-tmp/docs/v0.2.x/defining-routes/index.htm\</tspan>
 <tspan x="10" y="3226">l</tspan>
-<tspan x="10" y="3242">159.  2017-04-19 02:00:20 +0000    45667 bytes  jekyll-tmp/docs/v0.2.x/factories/index.html</tspan>
-<tspan x="10" y="3258">160.  2017-04-19 02:00:20 +0000    14738 bytes  jekyll-tmp/docs/v0.2.x/fixtures/index.html</tspan>
-<tspan x="10" y="3274">161.  2017-04-19 02:00:20 +0000    12564 bytes  jekyll-tmp/docs/v0.2.x/index.html</tspan>
-<tspan x="10" y="3290">162.  2017-04-19 02:00:20 +0000    11392 bytes  jekyll-tmp/docs/v0.2.x/installation/index.html</tspan>
-<tspan x="10" y="3306">163.  2017-04-19 02:00:20 +0000    12920 bytes  jekyll-tmp/docs/v0.2.x/manually-starting-mirage/\</tspan>
+<tspan x="10" y="3242">159.  2017-04-19 02:01:45 +0000    45667 bytes  jekyll-tmp/docs/v0.2.x/factories/index.html</tspan>
+<tspan x="10" y="3258">160.  2017-04-19 02:01:45 +0000    14738 bytes  jekyll-tmp/docs/v0.2.x/fixtures/index.html</tspan>
+<tspan x="10" y="3274">161.  2017-04-19 02:01:45 +0000    12564 bytes  jekyll-tmp/docs/v0.2.x/index.html</tspan>
+<tspan x="10" y="3290">162.  2017-04-19 02:01:45 +0000    11392 bytes  jekyll-tmp/docs/v0.2.x/installation/index.html</tspan>
+<tspan x="10" y="3306">163.  2017-04-19 02:01:45 +0000    12920 bytes  jekyll-tmp/docs/v0.2.x/manually-starting-mirage/\</tspan>
 <tspan x="10" y="3322">index.html</tspan>
-<tspan x="10" y="3338">164.  2017-04-19 02:00:20 +0000    35877 bytes  jekyll-tmp/docs/v0.2.x/models/index.html</tspan>
-<tspan x="10" y="3354">165.  2017-04-19 02:00:20 +0000    34823 bytes  jekyll-tmp/docs/v0.2.x/quickstart/index.html</tspan>
-<tspan x="10" y="3370">166.  2017-04-19 02:00:20 +0000    31636 bytes  jekyll-tmp/docs/v0.2.x/route-handlers/index.html</tspan>
-<tspan x="10" y="3386">167.  2017-04-19 02:00:20 +0000    14042 bytes  jekyll-tmp/docs/v0.2.x/schema/index.html</tspan>
-<tspan x="10" y="3402">168.  2017-04-19 02:00:20 +0000    30649 bytes  jekyll-tmp/docs/v0.2.x/seeding-your-database/ind\</tspan>
+<tspan x="10" y="3338">164.  2017-04-19 02:01:45 +0000    35877 bytes  jekyll-tmp/docs/v0.2.x/models/index.html</tspan>
+<tspan x="10" y="3354">165.  2017-04-19 02:01:45 +0000    34823 bytes  jekyll-tmp/docs/v0.2.x/quickstart/index.html</tspan>
+<tspan x="10" y="3370">166.  2017-04-19 02:01:45 +0000    31636 bytes  jekyll-tmp/docs/v0.2.x/route-handlers/index.html</tspan>
+<tspan x="10" y="3386">167.  2017-04-19 02:01:45 +0000    14042 bytes  jekyll-tmp/docs/v0.2.x/schema/index.html</tspan>
+<tspan x="10" y="3402">168.  2017-04-19 02:01:45 +0000    30649 bytes  jekyll-tmp/docs/v0.2.x/seeding-your-database/ind\</tspan>
 <tspan x="10" y="3418">ex.html</tspan>
-<tspan x="10" y="3434">169.  2017-04-19 02:00:20 +0000    42722 bytes  jekyll-tmp/docs/v0.2.x/serializers/index.html</tspan>
-<tspan x="10" y="3450">170.  2017-04-19 02:00:20 +0000    33580 bytes  jekyll-tmp/docs/v0.2.x/shorthands/index.html</tspan>
-<tspan x="10" y="3466">171.  2017-04-19 02:00:20 +0000    13613 bytes  jekyll-tmp/docs/v0.2.x/simulating-cookie-respons\</tspan>
+<tspan x="10" y="3434">169.  2017-04-19 02:01:45 +0000    42722 bytes  jekyll-tmp/docs/v0.2.x/serializers/index.html</tspan>
+<tspan x="10" y="3450">170.  2017-04-19 02:01:45 +0000    33580 bytes  jekyll-tmp/docs/v0.2.x/shorthands/index.html</tspan>
+<tspan x="10" y="3466">171.  2017-04-19 02:01:45 +0000    13613 bytes  jekyll-tmp/docs/v0.2.x/simulating-cookie-respons\</tspan>
 <tspan x="10" y="3482">es/index.html</tspan>
-<tspan x="10" y="3498">172.  2017-04-19 02:00:20 +0000    23624 bytes  jekyll-tmp/docs/v0.2.x/upgrading/index.html</tspan>
-<tspan x="10" y="3514">173.  2017-04-19 02:00:20 +0000    27437 bytes  jekyll-tmp/docs/v0.3.x/acceptance-testing/index.\</tspan>
+<tspan x="10" y="3498">172.  2017-04-19 02:01:45 +0000    23624 bytes  jekyll-tmp/docs/v0.2.x/upgrading/index.html</tspan>
+<tspan x="10" y="3514">173.  2017-04-19 02:01:45 +0000    27437 bytes  jekyll-tmp/docs/v0.3.x/acceptance-testing/index.\</tspan>
 <tspan x="10" y="3530">html</tspan>
-<tspan x="10" y="3546">174.  2017-04-19 02:00:20 +0000    10887 bytes  jekyll-tmp/docs/v0.3.x/changelog/index.html</tspan>
-<tspan x="10" y="3562">175.  2017-04-19 02:00:20 +0000    18308 bytes  jekyll-tmp/docs/v0.3.x/collections/index.html</tspan>
-<tspan x="10" y="3578">176.  2017-04-19 02:00:20 +0000    32593 bytes  jekyll-tmp/docs/v0.3.x/configuration/index.html</tspan>
-<tspan x="10" y="3594">177.  2017-04-19 02:00:20 +0000    24138 bytes  jekyll-tmp/docs/v0.3.x/database/index.html</tspan>
-<tspan x="10" y="3610">178.  2017-04-19 02:00:20 +0000    38647 bytes  jekyll-tmp/docs/v0.3.x/defining-routes/index.htm\</tspan>
+<tspan x="10" y="3546">174.  2017-04-19 02:01:45 +0000    10887 bytes  jekyll-tmp/docs/v0.3.x/changelog/index.html</tspan>
+<tspan x="10" y="3562">175.  2017-04-19 02:01:45 +0000    18308 bytes  jekyll-tmp/docs/v0.3.x/collections/index.html</tspan>
+<tspan x="10" y="3578">176.  2017-04-19 02:01:45 +0000    32593 bytes  jekyll-tmp/docs/v0.3.x/configuration/index.html</tspan>
+<tspan x="10" y="3594">177.  2017-04-19 02:01:45 +0000    24138 bytes  jekyll-tmp/docs/v0.3.x/database/index.html</tspan>
+<tspan x="10" y="3610">178.  2017-04-19 02:01:45 +0000    38647 bytes  jekyll-tmp/docs/v0.3.x/defining-routes/index.htm\</tspan>
 <tspan x="10" y="3626">l</tspan>
-<tspan x="10" y="3642">179.  2017-04-19 02:00:20 +0000    45667 bytes  jekyll-tmp/docs/v0.3.x/factories/index.html</tspan>
-<tspan x="10" y="3658">180.  2017-04-19 02:00:20 +0000    14738 bytes  jekyll-tmp/docs/v0.3.x/fixtures/index.html</tspan>
-<tspan x="10" y="3674">181.  2017-04-19 02:00:20 +0000    12564 bytes  jekyll-tmp/docs/v0.3.x/index.html</tspan>
-<tspan x="10" y="3690">182.  2017-04-19 02:00:20 +0000    11371 bytes  jekyll-tmp/docs/v0.3.x/installation/index.html</tspan>
-<tspan x="10" y="3706">183.  2017-04-19 02:00:20 +0000    12920 bytes  jekyll-tmp/docs/v0.3.x/manually-starting-mirage/\</tspan>
+<tspan x="10" y="3642">179.  2017-04-19 02:01:45 +0000    45667 bytes  jekyll-tmp/docs/v0.3.x/factories/index.html</tspan>
+<tspan x="10" y="3658">180.  2017-04-19 02:01:45 +0000    14738 bytes  jekyll-tmp/docs/v0.3.x/fixtures/index.html</tspan>
+<tspan x="10" y="3674">181.  2017-04-19 02:01:45 +0000    12564 bytes  jekyll-tmp/docs/v0.3.x/index.html</tspan>
+<tspan x="10" y="3690">182.  2017-04-19 02:01:45 +0000    11371 bytes  jekyll-tmp/docs/v0.3.x/installation/index.html</tspan>
+<tspan x="10" y="3706">183.  2017-04-19 02:01:45 +0000    12920 bytes  jekyll-tmp/docs/v0.3.x/manually-starting-mirage/\</tspan>
 <tspan x="10" y="3722">index.html</tspan>
-<tspan x="10" y="3738">184.  2017-04-19 02:00:20 +0000    35023 bytes  jekyll-tmp/docs/v0.3.x/models/index.html</tspan>
-<tspan x="10" y="3754">185.  2017-04-19 02:00:20 +0000    34840 bytes  jekyll-tmp/docs/v0.3.x/quickstart/index.html</tspan>
-<tspan x="10" y="3770">186.  2017-04-19 02:00:20 +0000    31636 bytes  jekyll-tmp/docs/v0.3.x/route-handlers/index.html</tspan>
-<tspan x="10" y="3786">187.  2017-04-19 02:00:20 +0000    14042 bytes  jekyll-tmp/docs/v0.3.x/schema/index.html</tspan>
-<tspan x="10" y="3802">188.  2017-04-19 02:00:20 +0000    31147 bytes  jekyll-tmp/docs/v0.3.x/seeding-your-database/ind\</tspan>
+<tspan x="10" y="3738">184.  2017-04-19 02:01:45 +0000    35023 bytes  jekyll-tmp/docs/v0.3.x/models/index.html</tspan>
+<tspan x="10" y="3754">185.  2017-04-19 02:01:45 +0000    34840 bytes  jekyll-tmp/docs/v0.3.x/quickstart/index.html</tspan>
+<tspan x="10" y="3770">186.  2017-04-19 02:01:45 +0000    31636 bytes  jekyll-tmp/docs/v0.3.x/route-handlers/index.html</tspan>
+<tspan x="10" y="3786">187.  2017-04-19 02:01:45 +0000    14042 bytes  jekyll-tmp/docs/v0.3.x/schema/index.html</tspan>
+<tspan x="10" y="3802">188.  2017-04-19 02:01:45 +0000    31147 bytes  jekyll-tmp/docs/v0.3.x/seeding-your-database/ind\</tspan>
 <tspan x="10" y="3818">ex.html</tspan>
-<tspan x="10" y="3834">189.  2017-04-19 02:00:20 +0000    42722 bytes  jekyll-tmp/docs/v0.3.x/serializers/index.html</tspan>
-<tspan x="10" y="3850">190.  2017-04-19 02:00:20 +0000    33580 bytes  jekyll-tmp/docs/v0.3.x/shorthands/index.html</tspan>
-<tspan x="10" y="3866">191.  2017-04-19 02:00:20 +0000    13613 bytes  jekyll-tmp/docs/v0.3.x/simulating-cookie-respons\</tspan>
+<tspan x="10" y="3834">189.  2017-04-19 02:01:45 +0000    42722 bytes  jekyll-tmp/docs/v0.3.x/serializers/index.html</tspan>
+<tspan x="10" y="3850">190.  2017-04-19 02:01:45 +0000    33580 bytes  jekyll-tmp/docs/v0.3.x/shorthands/index.html</tspan>
+<tspan x="10" y="3866">191.  2017-04-19 02:01:45 +0000    13613 bytes  jekyll-tmp/docs/v0.3.x/simulating-cookie-respons\</tspan>
 <tspan x="10" y="3882">es/index.html</tspan>
-<tspan x="10" y="3898">192.  2017-04-19 02:00:20 +0000    27957 bytes  jekyll-tmp/docs/v0.3.x/upgrading/index.html</tspan>
-<tspan x="10" y="3914">193.  2017-04-19 02:00:20 +0000     4447 bytes  jekyll-tmp/index.html</tspan>
-<tspan x="10" y="3930">194.  2017-04-19 02:00:20 +0000    28125 bytes  jekyll-tmp/public/css/style.css</tspan>
-<tspan x="10" y="3946">195.  2017-04-19 02:00:20 +0000     3479 bytes  jekyll-tmp/public/css/syntax.css</tspan>
-<tspan x="10" y="3962">196.  2017-04-19 02:00:20 +0000    18094 bytes  jekyll-tmp/public/favicon.ico</tspan>
-<tspan x="10" y="3978">197.  2017-04-19 02:00:20 +0000      710 bytes  jekyll-tmp/public/images/edit.png</tspan>
-<tspan x="10" y="3994">198.  2017-04-19 02:00:20 +0000     4204 bytes  package.json</tspan>
-<tspan x="10" y="4010">199.  2017-04-19 02:00:20 +0000      124 bytes  vendor/ember-cli-mirage/pretender-shim.js</tspan>
+<tspan x="10" y="3898">192.  2017-04-19 02:01:45 +0000    27957 bytes  jekyll-tmp/docs/v0.3.x/upgrading/index.html</tspan>
+<tspan x="10" y="3914">193.  2017-04-19 02:01:45 +0000     4447 bytes  jekyll-tmp/index.html</tspan>
+<tspan x="10" y="3930">194.  2017-04-19 02:01:45 +0000    28125 bytes  jekyll-tmp/public/css/style.css</tspan>
+<tspan x="10" y="3946">195.  2017-04-19 02:01:45 +0000     3479 bytes  jekyll-tmp/public/css/syntax.css</tspan>
+<tspan x="10" y="3962">196.  2017-04-19 02:01:45 +0000    18094 bytes  jekyll-tmp/public/favicon.ico</tspan>
+<tspan x="10" y="3978">197.  2017-04-19 02:01:45 +0000      710 bytes  jekyll-tmp/public/images/edit.png</tspan>
+<tspan x="10" y="3994">198.  2017-04-19 02:01:45 +0000     4204 bytes  package.json</tspan>
+<tspan x="10" y="4010">199.  2017-04-19 02:01:45 +0000      124 bytes  vendor/ember-cli-mirage/pretender-shim.js</tspan>
 </text>
 </svg>
