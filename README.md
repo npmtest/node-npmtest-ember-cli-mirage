@@ -1,6 +1,6 @@
 # npmtest-ember-cli-mirage
 
-#### test coverage for  [ember-cli-mirage (v0.3.1)](https://github.com/samselikoff/ember-cli-mirage)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-mirage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-mirage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-mirage.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-mirage)
+#### basic test coverage for  [ember-cli-mirage (v0.3.1)](https://github.com/samselikoff/ember-cli-mirage)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-mirage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-mirage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-mirage.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-mirage)
 
 #### A client-side HTTP server to develop, test and demo your Ember app
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ember-cli-mirage/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ember-cli-mirage/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ember-cli-mirage/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ember-cli-mirage/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-cli-mirage/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-cli-mirage/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ember-cli-mirage/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ember-cli-mirage/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-cli-mirage/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-cli-mirage/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ember-cli-mirage/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ember-cli-mirage/build/coverage.html/index.html)
 
@@ -132,7 +132,8 @@
         "start": "ember server",
         "test": "ember try:each && mocha tests/**/*-test-node.js"
     },
-    "version": "0.3.1"
+    "version": "0.3.1",
+    "bin": {}
 }
 ```
 
